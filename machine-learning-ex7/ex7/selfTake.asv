@@ -1,0 +1,7 @@
+function id = selfTake(x,cen,k,xr)
+   for imt=i:k
+         for im=j:xr
+              s = s+()
+         end
+   end
+end
